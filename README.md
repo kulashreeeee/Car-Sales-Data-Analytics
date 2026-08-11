@@ -21,6 +21,6 @@ The Power BI dashboard provides interactive visualizations
 to understand car sales performance and trends.
 
 ## Files
-- Car Dashboard.pbix - Power BI dashboard
+- Car Dashboard.pbix.zip – Power BI dashboard (compressed ZIP file)
 - Cardata.xlsx - Processed dataset
 - UNCLEANED CAR DATA.xlsx - Raw dataset
